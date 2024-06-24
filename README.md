@@ -22,5 +22,5 @@ pip install datasets==2.19.1
 ~~~
 conda activate synthtext
 # 下記ファイル中､directory_path = '/data/2024/FLAN/'を設定すること
-0624translate_flan.py
+pythn 0624translate_flan.py
 ~~~
